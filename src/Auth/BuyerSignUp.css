@@ -1,0 +1,37 @@
+.signupButton {
+  width: 100%;
+  background: #f0c14b;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+}
+.signupButton:hover {
+  background-color: #f0c14b;
+}
+
+.LoginLink {
+  text-decoration: none;
+}
+
+.googleSignUp {
+  width: 100%;
+  background: #f0c14b;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+}
+
+.signUpLogo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  object-fit: contain;
+  width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: black;
+  display: flex;
+  border: 2px solid black;
+  border-radius: 5px;
+}
